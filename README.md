@@ -78,21 +78,20 @@ Results are shown after training and during inference on the Streamlit app.
 
 ## 📂 Project Structure
 
+```plaintext
+regression_co2_emissions_prediction/
+├── app.py                           # Streamlit frontend
+├── co2_emissions.csv               # Main dataset
+├── co2_emissions_test.csv          # Test data for validation
+├── CO2_Emissions_Estimation_EDA.ipynb  # Exploratory data analysis
+├── model_training.py               # Training script
+├── co2_model.pkl                   # Trained model
+├── co2_features.pkl                # Feature list used by the model
+├── requirements.txt                # Python dependencies
+├── .gitignore                      # Files to ignore in version control
+└── README.md                       # Project documentation
 ```
 
-regression\_co2\_emissions\_prediction/
-├── app.py                          # Streamlit frontend
-├── co2\_emissions.csv              # Main dataset
-├── co2\_emissions\_test.csv         # Test data for validation
-├── CO2\_Emissions\_Estimation\_EDA.ipynb  # Exploratory data analysis
-├── model\_training.py              # Training script
-├── co2\_model.pkl                  # Trained model
-├── co2\_features.pkl               # Feature list used by the model
-├── requirements.txt               # Python dependencies
-├── .gitignore                     # Files to ignore in version control
-└── README.md                      # Project documentation
-
-````
 
 ---
 
