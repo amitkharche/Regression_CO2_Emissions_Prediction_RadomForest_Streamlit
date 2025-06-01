@@ -1,5 +1,5 @@
 
-# 🌱 CO2 Emissions Prediction – Regression Modeling with Streamlit
+# 🌱 CO2 Emissions Prediction – Regression Modeling using RandomForest Regressor with Streamlit
 
 This project aims to **predict CO2 emissions of vehicles** based on key engine and fuel consumption features. By modeling emission patterns, this tool aids in regulatory planning, environmental monitoring, and supporting eco-conscious vehicle design decisions.
 
@@ -79,7 +79,7 @@ Results are shown after training and during inference on the Streamlit app.
 ## 📂 Project Structure
 
 ```plaintext
-regression_co2_emissions_prediction/
+Regression_CO2_Emissions_Prediction_RadomForest_Streamlit/
 ├── app.py                           # Streamlit frontend
 ├── co2_emissions.csv               # Main dataset
 ├── co2_emissions_test.csv          # Test data for validation
