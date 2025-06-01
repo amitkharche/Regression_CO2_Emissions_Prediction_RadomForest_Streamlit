@@ -110,8 +110,8 @@ The accompanying notebook `CO2_Emissions_Estimation_EDA.ipynb` performs:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/amitkharche/regression_co2_emissions_prediction.git
-cd regression_co2_emissions_prediction
+git clone https://github.com/amitkharche/Regression_CO2_Emissions_Prediction_RadomForest_Streamlit.git
+cd Regression_CO2_Emissions_Prediction_RadomForest_Streamlit
 ````
 
 ### 2️⃣ (Optional) Create a Virtual Environment
