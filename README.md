@@ -1,5 +1,4 @@
 
-```markdown
 # 🌱 CO2 Emissions Prediction – Regression Modeling with Streamlit
 
 This project aims to **predict CO2 emissions of vehicles** based on key engine and fuel consumption features. By modeling emission patterns, this tool aids in regulatory planning, environmental monitoring, and supporting eco-conscious vehicle design decisions.
