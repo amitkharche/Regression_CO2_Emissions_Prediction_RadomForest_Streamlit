@@ -1,6 +1,4 @@
 
----
-
 ```markdown
 # 🌱 CO2 Emissions Prediction – Regression Modeling with Streamlit
 
@@ -194,5 +192,5 @@ Feel free to fork and use for educational or research purposes.
 
 If you find this project useful, don’t forget to ⭐️ it and share your feedback!
 
-```
+
 
