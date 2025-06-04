@@ -163,7 +163,7 @@ Get real-time CO2 emission predictions and performance scores.
 
 👉 Returns predicted CO2 emissions (e.g., ~190 g/km)
 
-## APP UI
+**APP UI**
 
 <p align="center">
   <img src="Images/Streamlit%20App_UI.jpg" alt="CO2 Emissions Prediction UI" width="600"/>
