@@ -161,9 +161,10 @@ Get real-time CO2 emission predictions and performance scores.
 | ----------- | --------- | --------- | --------- | -------- | --------- |
 | 2.0 L       | 4         | Regular   | 9.5       | 6.7      | 8.3       |
 
-👉 Returns predicted CO2 emissions (e.g., \~190 g/km)
+👉 Returns predicted CO2 emissions (e.g., ~190 g/km)
 
-![CO2 Emissions Prediction UI]("Images\Streamlit App_UI.jpg")
+![CO2 Emissions Prediction UI](Images/Streamlit%20App_UI.jpg)
+
 
 ---
 
